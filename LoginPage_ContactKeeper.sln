@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LoginPage_ContactKeeper", "LoginPage_ContactKeeper\LoginPage_ContactKeeper.csproj", "{175D9B2B-4453-4D35-9D5C-812F97D51BB6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{27C2123D-23FA-44A2-8848-C92D7620A183}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{175D9B2B-4453-4D35-9D5C-812F97D51BB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{175D9B2B-4453-4D35-9D5C-812F97D51BB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{175D9B2B-4453-4D35-9D5C-812F97D51BB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{175D9B2B-4453-4D35-9D5C-812F97D51BB6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {07BAFD3D-CC18-420D-80A1-DA35C23D98C1}
+	EndGlobalSection
+EndGlobal
